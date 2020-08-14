@@ -17,6 +17,14 @@ Stand alone script that let you knockout player when you enter melee combat, pla
 
 None
 
+# Installation :
+
+* Rename script to Knockout
+* Add it to your resource folder
+* And add to your server.cfg
+
+start Knockedout 
+
 ## If you get any errors or issues, please create an [Issue](https://github.com/zharrane/Knock-out-Script/issues/new).
 
 [When you get knocked](https://youtu.be/rgFmN-q2Eas)
