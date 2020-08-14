@@ -23,7 +23,7 @@ None
 * Add it to your resource folder
 * And add to your server.cfg
 
-start Knockedout 
+start Knockout 
 
 ## If you get any errors or issues, please create an [Issue](https://github.com/zharrane/Knock-out-Script/issues/new).
 
