@@ -28,7 +28,7 @@ Citizen.CreateThread(function()
         local myPed = GetPlayerPed(-1)
         -- With melee weapon or unarmed only
         if IsPedInMeleeCombat(myPed) then
-            -- Without any kind of weapon
+            -- Without any kind of weapon {UNARMED ONLY}
             if (HasPedBeenDamagedByWeapon(myPed, GetHashKey("WEAPON_UNARMED"), 0) )then
                 -- Health to be knocked out
                 if GetEntityHealth(myPed) < 145 then
@@ -39,7 +39,7 @@ Citizen.CreateThread(function()
 					ShakeGameplayCam('LARGE_EXPLOSION_SHAKE', 2.5)
 					-- Time to wait
                     wait = 15
-                    --** Add progress Bar here if you wand **--
+                    --** Add progress Bar here if you want **--
 					knockedOut = true
 					-- Health after knockout preferably dont make it more than 150 (50 %) because people will abuse with it {No need to go to hospital or so}
 					SetEntityHealth(myPed, 140)
