@@ -30,6 +30,6 @@ start Knockout
 [When you get knocked](https://youtu.be/rgFmN-q2Eas)
 [When knock someone](https://youtu.be/LgmAvoq3EI0)
 
-## PS: i removed the progress bar you can download it and add it
+## PS: i removed the progress bar you can implement any
 
 ### Feel free to use this script share it or modify it.
