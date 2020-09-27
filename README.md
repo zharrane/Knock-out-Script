@@ -1,3 +1,4 @@
+# I share files for pleasure so feel free to use or modify them.
 # Knock-out-Script
 
 Knockout script for Fivem GTA V servers
