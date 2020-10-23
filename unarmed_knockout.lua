@@ -10,7 +10,7 @@
 --│                                                       │
 --│                                                       │
 --│                                                       │
---│  Made by : https://forum.cfx.re/u/Cosmo               │ 
+--│               			                  │ 
 --│  @ Modification upon need by Rango!(zaki)             │
 --│                                                       │
 --│  Contact (discord) : Zaki#1196                        │
